@@ -1,0 +1,15 @@
+{
+    "name": "vhson0610/tcs_demo_project",
+    "description": "This is a demo project",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "Vo Hoai Son",
+            "email": "vector.mic@gmail.com",
+            "homepage": "http://trachanhso.net/"
+        }
+    ],
+    "require": {
+        "monolog/monolog": "1.19.0"
+    }
+}
